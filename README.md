@@ -1,10 +1,11 @@
 # Thiagoarruda09.github.io
-Aqui será meu cirriculo feito com HTML, CSS e talvez javascript hospedado no github
+Meu cirriculo de apresentação feito com HTML, CSS e  javascript hospedado no github
 
 ## tecnologias utilizadas
 - html
 - css
 - javascript
+  
   **obs:** hospedado no github
 
 ## Acessando o site
